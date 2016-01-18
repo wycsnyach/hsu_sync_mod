@@ -1,0 +1,26 @@
+url=http://hsu.kemri-wellcome.org/redcap/api/
+content_type=text/html; charset=utf-8
+http_code=200
+header_size=328
+request_size=169
+filetime=-1
+ssl_verify_result=0
+redirect_count=0
+total_time=19.779486
+namelookup_time=0.001189
+connect_time=0.001458
+pretransfer_time=0.001466
+size_upload=1332791
+size_download=3
+speed_download=0
+speed_upload=67382
+download_content_length=3
+upload_content_length=1332791
+starttransfer_time=0.00237
+redirect_time=0
+certinfo=Array
+primary_ip=10.0.10.188
+primary_port=80
+local_ip=10.0.10.199
+local_port=52519
+redirect_url=

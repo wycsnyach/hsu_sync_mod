@@ -1,0 +1,26 @@
+url=http://10.0.10.199/redcap/api/
+content_type=text/html; charset=utf-8
+http_code=200
+header_size=360
+request_size=155
+filetime=-1
+ssl_verify_result=0
+redirect_count=0
+total_time=0.272149
+namelookup_time=4.3E-5
+connect_time=0.000153
+pretransfer_time=0.000161
+size_upload=8270
+size_download=1
+speed_download=3
+speed_upload=30387
+download_content_length=1
+upload_content_length=8270
+starttransfer_time=0.000817
+redirect_time=0
+certinfo=Array
+primary_ip=10.0.10.199
+primary_port=80
+local_ip=10.0.10.199
+local_port=46038
+redirect_url=
